@@ -1,6 +1,6 @@
 -- want more scripts like this? join our discord! https://discord.gg/CkSYPCYxtM
 
-local a = game.ReplicatedStorage.MainEvent
+local a = game:GetService("ReplicatedStorage"):WaitForChild("MainEvent")
 local b = {"CHECKER_1", "TeleportDetect", "OneMoreTime"}
 local c
 c =
