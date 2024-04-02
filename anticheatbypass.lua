@@ -1,7 +1,7 @@
 -- want more scripts like this? join our discord! https://discord.gg/CkSYPCYxtM
 
 local a = game:GetService("ReplicatedStorage"):WaitForChild("MainEvent")
-local b = {"CHECKER_1", "TeleportDetect", "OneMoreTime"}
+local b = {"CHECKER_1", "CHECKER_2", "TeleportDetect", "OneMoreTime", "BreathingHAMON", "VirusCough"}
 local c
 c =
     hookmetamethod(
